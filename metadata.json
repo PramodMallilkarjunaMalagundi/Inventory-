@@ -1,0 +1,7 @@
+{
+  "name": "InvenTrack",
+  "description": "An advanced AI-powered inventory management system featuring smart insights, automated categorization, and real-time stock tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
